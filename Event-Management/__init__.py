@@ -1,2 +1,1 @@
-from . import event
-from . import participant
+from . import models
