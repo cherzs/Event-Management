@@ -3,7 +3,7 @@
     'name': "Event Management System",
     'summary': "Manage and track events, participants, and feedback.",
     'description': "A module to create, manage, and track events, including ticketing, attendance, and feedback collection.",
-    'author': "Your Name",
+    'author': "Cherzs",
     'website': "https://www.yourwebsite.com",
     'license': "AGPL-3",
     'category': 'Events',
